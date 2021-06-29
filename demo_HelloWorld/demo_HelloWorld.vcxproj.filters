@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="C++基础入门.pdf">
+    <None Include="..\C++基础入门.pdf">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>
